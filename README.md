@@ -36,3 +36,5 @@ If the package list includes AUR packages, use an AUR helper such as `yay` to re
 ```bash
 yay -Syu <contents of file>
 ```
+
+![image](https://github.com/user-attachments/assets/f53132fb-5b17-41a1-871b-94ca4584090f)
